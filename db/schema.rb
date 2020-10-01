@@ -12,4 +12,27 @@
 
 ActiveRecord::Schema.define(version: 0) do
 
+    create_table "comments", force: :cascade do |t|
+        t.integer "user_id"
+        t.text "body"
+        t.integer "post_id"
+        t.datetime "created_at", null: false
+        t.datetime "updated_at", null: false
+    end
+    
+      create_table "posts", force: :cascade do |t|
+        t.string "title"
+        t.text "content"
+        t.integer "user_id"
+        t.datetime "created_at", null: false
+        t.datetime "updated_at", null: false
+    end
+    
+      create_table "users", force: :cascade do |t|
+        t.string "username"
+        t.string "password"
+        t.string "email"
+        t.datetime "created_at", null: false
+        t.datetime "updated_at", null: false
+    end
 end
