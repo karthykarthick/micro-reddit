@@ -5,6 +5,12 @@
 - Models: User, Post & Comment;
 - Active Record Pattern.
 
+### Settings :
+Clone the project from github using
+$ git clone https://github.com/karthykarthick/micro-reddit.git
+cd micro-reddit
+$ bundle install
+
 ## Authors
 
 👤 **karthick harimoorthy**
