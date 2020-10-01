@@ -1,24 +1,28 @@
 # README
+## We created an application using Rails, which represents a small copy of [Reddit](https://reddit.com):
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Features:
+- Models: User, Post & Comment;
+- Active Record Pattern.
 
-Things you may want to cover:
+## Authors
 
-* Ruby version
+👤 **karthick harimoorthy**
 
-* System dependencies
 
-* Configuration
+- Github: [@karthykarthick](https://github.com/karthykarthick)
+- Linkedin: [linkedin](https://www.linkedin.com/in/karthick-harimoorthy)
 
-* Database creation
+## 🤝 Contributing
 
-* Database initialization
+Contributions, issues and feature requests are welcome!
 
-* How to run the test suite
+Feel free to check the [issues page](issues/).
 
-* Services (job queues, cache servers, search engines, etc.)
+## Show your support
 
-* Deployment instructions
+Give a ⭐️ if you like this project!
 
-* ...
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
