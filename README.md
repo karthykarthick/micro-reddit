@@ -9,7 +9,6 @@
 
 👤 **karthick harimoorthy**
 
-
 - Github: [@karthykarthick](https://github.com/karthykarthick)
 - Linkedin: [linkedin](https://www.linkedin.com/in/karthick-harimoorthy)
 
